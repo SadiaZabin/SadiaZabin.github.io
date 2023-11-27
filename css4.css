@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen{
+body h1 {
+    background-color: #FFB7B9;
+}
+body h1 {
+    color: #DD5C5D;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+body {
+    background-color: #F96D71;
+}
+}
